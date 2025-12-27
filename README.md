@@ -1,3 +1,4 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/fa640202-abb1-47f5-a469-9f0b549aa7a0" width="600px">
+<b>me debugging</b><br>
+<img src="https://github.com/user-attachments/assets/367287f2-ecef-4cee-948c-8f98c937950f" width="600px">
 </p>
